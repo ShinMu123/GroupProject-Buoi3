@@ -1,2 +1,1 @@
-Ghi chú chung của nhóm
-DangKhoi
+Nội dung ghi chú nhóm vinh da vao
